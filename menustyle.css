@@ -1,0 +1,16 @@
+
+
+#info{border-bottom: 0px; background-color:white;border:10px outset red; }
+h1,h2,h3,h4,h5,h6{text-transform: uppercase;text-align:center;}
+.lien{color:black;text-decoration: none; line-height:1; text-align:LEFT;font-style:italic;font-weight:bold;border:10px outset Brown; width:500px; padding:20px; margin:40px; 
+background-color:yellow;  list-style-type: square;
+border-Right: 10px inset Brown;
+border-radius: 38px 40px;}
+body{
+	border:10px outset Brown;
+	background-color:#39c;
+	background-image:url("photo.jpg");
+	background-repeat:repeat-y;
+	background-position:right;
+	
+}
